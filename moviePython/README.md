@@ -14,3 +14,4 @@ what do we need next?
 django -- pip3 install django 
 
 How do you create a django project? 
+django-admin startproject myproject .
