@@ -10,3 +10,7 @@ what do you do next?
 how do you activate a virtual enviroment? 
 source moviePythonenv/bin/activate
 
+what do we need next? 
+django -- pip3 install django 
+
+How do you create a django project? 
